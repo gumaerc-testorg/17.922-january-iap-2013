@@ -2,7 +2,7 @@
 content_type: resource
 description: An installation featuring a jukebox which contains songs from the civil
   and human rights movements. Image courtesy of Tobie Weiner.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/f065f025e5db1bd48a870fa8f9142f99_Freedomjukeboxnew.jpg
+file: /media/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/f065f025e5db1bd48a870fa8f9142f99_Freedomjukeboxnew.jpg
 file_type: image/jpeg
 image_metadata:
   caption: An installation featuring a jukebox which contains songs from the civil
@@ -10,6 +10,10 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A multicolored simulated jukebox with the words "Freedom Jukebox" painted
     on it.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: Freedom Song Jukebox
 uid: f065f025-e5db-1bd4-8a87-0fa8f9142f99

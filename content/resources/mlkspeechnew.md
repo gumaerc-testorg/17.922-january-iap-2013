@@ -2,7 +2,7 @@
 content_type: resource
 description: An installation featuring the view of MLK from the podium of the Lincoln
   Memorial. Image courtesy of Tobie Weiner.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/8dde1a1c9c65ce8f4a340d390ce2c240_MLKspeechnew.jpg
+file: /media/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/8dde1a1c9c65ce8f4a340d390ce2c240_MLKspeechnew.jpg
 file_type: image/jpeg
 image_metadata:
   caption: An installation featuring the view of MLK from the podium of the Lincoln
@@ -10,6 +10,10 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A painting of the Lincoln Memorial from the point of view of Dr. Martin
     Luther King at the podium.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: Memorial
 uid: 8dde1a1c-9c65-ce8f-4a34-0d390ce2c240

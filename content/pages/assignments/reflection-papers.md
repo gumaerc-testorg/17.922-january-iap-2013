@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: eafe520e-ccfb-de37-9e00-c47adf3eee40
 title: Reflection Papers
 uid: e6ab6006-8559-5ae6-d681-4536fd08bc6e

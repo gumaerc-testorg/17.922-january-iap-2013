@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding activity 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/15cf5debef7a4d046500550934a3389c_MIT17_922IAP13_Activity3.pdf
+file: /media/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/15cf5debef7a4d046500550934a3389c_MIT17_922IAP13_Activity3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Activities
+parent_type: CourseSection
 resourcetype: Document
 title: 17.922 IAP 13 Activity 3
 uid: 15cf5deb-ef7a-4d04-6500-550934a3389c

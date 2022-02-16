@@ -1,11 +1,13 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 ---
 
 This image gallery contains a selection of the installations created by students during the MLK Design Seminar.
-{{< image-gallery id="08203278-88bc-e2b6-5b15-49f0cb74e304_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/" >}}
+{{< image-gallery id="08203278-88bc-e2b6-5b15-49f0cb74e304_nanogallery2" baseUrl="/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/" >}}
 {{< image-gallery-item href="d0736e9376afa5a1c092f9227337b9fd_Worldnew.jpg" data-ngdesc="An installation documenting global issues. Image courtesy of Tobie Weiner." text="An installation documenting global issues." >}}
 {{< image-gallery-item href="a1dd926cda213394859c619d88d8d7ee_MLKdivnew.jpg" data-ngdesc="An installation with photos showing the diversity of MIT students." text="An installation with photos showing the diversity of MIT students." >}}
 {{< image-gallery-item href="5661ac633a76f17963de7bbf76150f3e_Chairnew.jpg" data-ngdesc="An installation featuring two chairs with quotes from Abraham Lincoln and Aesop. Image courtesy of Tobie Weiner." text="An installation featuring two chairs with quotes from Abraham Lincoln and Aesop." >}}
