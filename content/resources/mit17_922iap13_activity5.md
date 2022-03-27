@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Activities
 parent_type: CourseSection
+parent_uid: b478624d-b8f3-bc08-6512-5af606432609
 resourcetype: Document
 title: '17.922 IAP 13 Activity 5: Dimensions of Identity'
 uid: 68be16ba-7b85-2f70-0c91-6e35f29ed281

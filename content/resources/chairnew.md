@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: Chairs
 uid: 5661ac63-3a76-f179-63de-7bbf76150f3e

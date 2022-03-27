@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: 'The 100 People Project: M.I.T.'
 uid: a1dd926c-da21-3394-859c-619d88d8d7ee

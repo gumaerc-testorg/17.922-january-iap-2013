@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Activities
 parent_type: CourseSection
+parent_uid: b478624d-b8f3-bc08-6512-5af606432609
 resourcetype: Document
 title: 17.922 IAP 13 Activity 6
 uid: 27757124-649a-41e4-a392-ba2860adee43

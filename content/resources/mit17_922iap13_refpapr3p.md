@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflection Papers
 parent_type: CourseSection
+parent_uid: e6ab6006-8559-5ae6-d681-4536fd08bc6e
 resourcetype: Document
 title: '17.922IAP13 MLK Seminar Reflection: Autobiography Student 14'
 uid: dd195ad0-4da6-b3b3-767d-1deb1e5df805

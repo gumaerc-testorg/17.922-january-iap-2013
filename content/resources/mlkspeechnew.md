@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: Memorial
 uid: 8dde1a1c-9c65-ce8f-4a34-0d390ce2c240

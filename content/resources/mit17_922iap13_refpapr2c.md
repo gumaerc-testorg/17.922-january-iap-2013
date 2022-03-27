@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflection Papers
 parent_type: CourseSection
+parent_uid: e6ab6006-8559-5ae6-d681-4536fd08bc6e
 resourcetype: Document
 title: '17.922IAP13 MLK Seminar Reflection: Kwame Ture'
 uid: cd1bc332-9aef-005d-a35c-71b2f788a3c0

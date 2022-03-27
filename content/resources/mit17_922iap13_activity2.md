@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Activities
 parent_type: CourseSection
+parent_uid: b478624d-b8f3-bc08-6512-5af606432609
 resourcetype: Document
 title: '17.922 IAP 13 Activity 2: Multiple Identities'
 uid: 51a97164-4a44-a92a-d720-6282c5488ce9
