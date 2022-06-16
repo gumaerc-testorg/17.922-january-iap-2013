@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This image gallery contains a selection of the installations created
+  by students during the MLK Design Seminar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery

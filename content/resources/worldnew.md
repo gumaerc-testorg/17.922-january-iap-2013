@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An installation documenting global issues. Image courtesy of Tobie Weiner.
-file: /media/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/d0736e9376afa5a1c092f9227337b9fd_Worldnew.jpg
+file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/d0736e9376afa5a1c092f9227337b9fd_Worldnew.jpg
 file_type: image/jpeg
 image_metadata:
   caption: An installation documenting global issues.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: Global Issues
 uid: d0736e93-76af-a5a1-c092-f9227337b9fd
 ---
+An installation documenting global issues. Image courtesy of Tobie Weiner.
+
