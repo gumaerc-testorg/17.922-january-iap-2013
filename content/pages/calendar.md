@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an overview of the course calendar and the schedule
+  of topics and activities by session.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f7f0f15c-43bf-69f2-23fb-459a5f049372
 ---
@@ -40,7 +44,7 @@ Choose one of the following topics for discussion:
 Topic 1: MLK Memorial Inscription Changed  
 Topic 2: Is MIT a True Meritocracy?
 
-_See Activity 1 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 1 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -70,7 +74,7 @@ A smaller group watches a different episode.
 
 Multiple Identities Activity
 
-_See Activity 2 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 2 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -102,7 +106,7 @@ A smaller group watches a different episode.
 
 Students work in groups to prepare a presentation for Session 6.
 
-_See Activity 3 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 3 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -126,7 +130,7 @@ Group Presentations
 
 Students watch videos about civil and human rights activists around the world.
 
-_See Activity 4 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 4 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -156,7 +160,7 @@ cancerleo79. "Chicano! PBS Documentary—Quest for a Homeland." September 19, 20
 
 Dimensions of Identity icebreaker and discussion
 
-_See Activity 5 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 5 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -174,7 +178,7 @@ Students are divided into small groups and each group decides whether they want 
 Assignment 1: Go to the "Dropping Knowledge" website  
 Assignment 2: What "thing" (positive or negative) does either MIT or Wellesley (or maybe both) need to address?
 
-_See Activity 6 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 6 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -189,7 +193,7 @@ _See Activity 6 in the [Activities]({{< baseurl >}}/pages/activities) section_
 
 Icebreaker for the installation or project
 
-_See Activity 7 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 7 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -204,7 +208,7 @@ _See Activity 7 in the [Activities]({{< baseurl >}}/pages/activities) section_
 
 Final vote for top installation and project ideas, and preliminary group formation
 
-_See Activity 8 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 8 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
@@ -219,7 +223,7 @@ _See Activity 8 in the [Activities]({{< baseurl >}}/pages/activities) section_
 
 Firming up of installation or project ideas
 
-_See Activity 9 in the [Activities]({{< baseurl >}}/pages/activities) section_
+_See Activity 9 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "Activities" %}} section_
 
 
 {{< tdclose >}}
