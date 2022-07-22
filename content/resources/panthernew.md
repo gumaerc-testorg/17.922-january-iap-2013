@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A bloody mattress blocked off with yellow police tape.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Black Panther Party Tribute
 uid: 442c5003-9cc9-0b2b-6fdf-bc648f42bc65
 ---
 An installation illustrating a raid on the Black Panthers that killed Panther Fred Hampton. Image courtesy of Tobie Weiner.
-

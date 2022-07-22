@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A display with the word "Diversity," and featuring photos of MIT students.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'The 100 People Project: M.I.T.'
 uid: a1dd926c-da21-3394-859c-619d88d8d7ee
 ---
 An installation with photos showing the diversity of MIT students.
-

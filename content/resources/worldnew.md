@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A display with multi-colored stickies representing world issues.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Global Issues
 uid: d0736e93-76af-a5a1-c092-f9227337b9fd
 ---
 An installation documenting global issues. Image courtesy of Tobie Weiner.
-

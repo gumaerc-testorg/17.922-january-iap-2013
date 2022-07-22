@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Multi-colored paper roses lie in front of photos of people of different
     ethnicities.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Rose Garden
 uid: fe7ade8c-ce49-6dc6-d38e-5c9c3d28e3ea
 ---
 An installation illustrating the uniqueness of individuals. Image courtesy of Tobie Weiner.
-

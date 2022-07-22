@@ -11,6 +11,7 @@ image_metadata:
   image-alt: One chair painted with black and white squares, while the another is
     painted half black, half white, and is torn down the middle.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Chairs
 uid: 5661ac63-3a76-f179-63de-7bbf76150f3e
 ---
 An installation featuring two chairs with quotes from Abraham Lincoln and Aesop. Image courtesy of Tobie Weiner.
-

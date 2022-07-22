@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A multicolored simulated jukebox with the words "Freedom Jukebox" painted
     on it.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Freedom Song Jukebox
 uid: f065f025-e5db-1bd4-8a87-0fa8f9142f99
 ---
 An installation featuring a jukebox which contains songs from the civil and human rights movements. Image courtesy of Tobie Weiner.
-

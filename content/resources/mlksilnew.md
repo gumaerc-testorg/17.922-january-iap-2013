@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A silhouette of Dr. Martin Luther King,filled in with photos of various
     civil and human rights leaders.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Silhouette
 uid: 8a3b43fc-adf0-0946-ed66-05fa354d080b
 ---
 An installation with various public figures framed by a silhouette of Martin Luther King, Jr. Image courtesy of Tobie Weiner.
-

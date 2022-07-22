@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A multicolored street art mural with various images and text.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Dream
 uid: 9564bcbc-5d7d-231d-dd94-d6dac626a9cb
 ---
 This installation is a graffiti-styled street mural. Image courtesy of Tobie Weiner.
-

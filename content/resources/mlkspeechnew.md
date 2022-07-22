@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A painting of the Lincoln Memorial from the point of view of Dr. Martin
     Luther King at the podium.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Memorial
 uid: 8dde1a1c-9c65-ce8f-4a34-0d390ce2c240
 ---
 An installation featuring the view of MLK from the podium of the Lincoln Memorial. Image courtesy of Tobie Weiner.
-
