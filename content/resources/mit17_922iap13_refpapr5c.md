@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding Michelle Rhee.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/fb91284baced70873912a4555a85a9d4_MIT17_922IAP13_RefPapr5C.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/fb91284baced70873912a4555a85a9d4_MIT17_922IAP13_RefPapr5C.pdf
+file_size: 65778
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

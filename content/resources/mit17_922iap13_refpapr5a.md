@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding Alaska gold.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/ff83bfbed4a1e1a4ea82e3200b6698e4_MIT17_922IAP13_RefPapr5A.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/ff83bfbed4a1e1a4ea82e3200b6698e4_MIT17_922IAP13_RefPapr5A.pdf
+file_size: 171183
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

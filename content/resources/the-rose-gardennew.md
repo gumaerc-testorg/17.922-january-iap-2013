@@ -2,7 +2,8 @@
 content_type: resource
 description: An installation illustrating the uniqueness of individuals. Image courtesy
   of Tobie Weiner.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/fe7ade8cce496dc6d38e5c9c3d28e3ea_The-Rose-Gardennew.jpg
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/fe7ade8cce496dc6d38e5c9c3d28e3ea_The-Rose-Gardennew.jpg
+file_size: 112838
 file_type: image/jpeg
 image_metadata:
   caption: An installation illustrating the uniqueness of individuals.

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding wall street.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/2e8f7e6dd3082a5b76f1f9e58abf5798_MIT17_922IAP13_RefPapr5E.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/2e8f7e6dd3082a5b76f1f9e58abf5798_MIT17_922IAP13_RefPapr5E.pdf
+file_size: 100454
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

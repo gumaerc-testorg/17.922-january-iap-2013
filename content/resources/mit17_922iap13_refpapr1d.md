@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding MLK breakfast 4.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/7e3947c7014a0fdf145a902f42a8c813_MIT17_922IAP13_RefPapr1D.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/7e3947c7014a0fdf145a902f42a8c813_MIT17_922IAP13_RefPapr1D.pdf
+file_size: 614857
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

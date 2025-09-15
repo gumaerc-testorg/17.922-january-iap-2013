@@ -2,7 +2,8 @@
 content_type: resource
 description: An installation featuring two chairs with quotes from Abraham Lincoln
   and Aesop. Image courtesy of Tobie Weiner.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/5661ac633a76f17963de7bbf76150f3e_Chairnew.jpg
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/5661ac633a76f17963de7bbf76150f3e_Chairnew.jpg
+file_size: 86249
 file_type: image/jpeg
 image_metadata:
   caption: An installation featuring two chairs with quotes from Abraham Lincoln and

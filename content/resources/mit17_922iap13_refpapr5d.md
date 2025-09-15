@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding money march madness.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/630976732f2bfcac095be88c4a7f3e92_MIT17_922IAP13_RefPapr5D.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/630976732f2bfcac095be88c4a7f3e92_MIT17_922IAP13_RefPapr5D.pdf
+file_size: 110008
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

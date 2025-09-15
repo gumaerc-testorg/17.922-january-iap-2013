@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding civil rights.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/a016ed46566aec3279ac4000b587c5b9_MIT17_922IAP13_RefPapr2A.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/a016ed46566aec3279ac4000b587c5b9_MIT17_922IAP13_RefPapr2A.pdf
+file_size: 271525
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

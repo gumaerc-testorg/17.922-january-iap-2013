@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding Geoffrey Canada.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/8f2a61eaa3407e5fc5bd8c3fe1d7ddc9_MIT17_922IAP13_RefPapr6B.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/8f2a61eaa3407e5fc5bd8c3fe1d7ddc9_MIT17_922IAP13_RefPapr6B.pdf
+file_size: 168245
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding activity 9.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/5dfe660d8501e212255a2543137d044d_MIT17_922IAP13_Activity9.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/5dfe660d8501e212255a2543137d044d_MIT17_922IAP13_Activity9.pdf
+file_size: 134831
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

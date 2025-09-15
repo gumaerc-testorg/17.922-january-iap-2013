@@ -2,7 +2,8 @@
 content_type: resource
 description: An installation with various public figures framed by a silhouette of
   Martin Luther King, Jr. Image courtesy of Tobie Weiner.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/8a3b43fcadf00946ed6605fa354d080b_MLKsilnew.jpg
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/8a3b43fcadf00946ed6605fa354d080b_MLKsilnew.jpg
+file_size: 120463
 file_type: image/jpeg
 image_metadata:
   caption: An installation with various public figures framed by a silhouette of Martin

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding nonviolent protests.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/a82617d71515f71df64ee8239464d33b_MIT17_922IAP13_RefPapr2D.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/a82617d71515f71df64ee8239464d33b_MIT17_922IAP13_RefPapr2D.pdf
+file_size: 209404
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

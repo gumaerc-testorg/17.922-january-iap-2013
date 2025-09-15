@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding activity 2: multiple identities.'
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/51a971644a44a92ad7206282c5488ce9_MIT17_922IAP13_Activity2.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/51a971644a44a92ad7206282c5488ce9_MIT17_922IAP13_Activity2.pdf
+file_size: 61815
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding bridge student 1.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/245d61dcfccc2475949b9fe1c1fe1b0a_MIT17_922IAP13_RefPapr4A.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/245d61dcfccc2475949b9fe1c1fe1b0a_MIT17_922IAP13_RefPapr4A.pdf
+file_size: 68258
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

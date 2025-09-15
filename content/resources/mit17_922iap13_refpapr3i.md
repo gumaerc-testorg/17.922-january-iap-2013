@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding autobiography student 20.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/3340c8037e973b8331c3c1c2bc9668b2_MIT17_922IAP13_RefPapr3I.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/3340c8037e973b8331c3c1c2bc9668b2_MIT17_922IAP13_RefPapr3I.pdf
+file_size: 117455
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

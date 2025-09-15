@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding climate of doubt.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/3d8a900b799454d35edfa8327d60802c_MIT17_922IAP13_RefPapr5B.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/3d8a900b799454d35edfa8327d60802c_MIT17_922IAP13_RefPapr5B.pdf
+file_size: 152485
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

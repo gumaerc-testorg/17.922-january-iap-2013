@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding malcolm X speech.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/26ac296ebe214613e29057f40979ca6c_MIT17_922IAP13_RefPapr6A.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/26ac296ebe214613e29057f40979ca6c_MIT17_922IAP13_RefPapr6A.pdf
+file_size: 323938
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding Barack Obama.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/51fc181e37a970cde9808cb39ee68c46_MIT17_922IAP13_RefPapr6D.pdf
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/51fc181e37a970cde9808cb39ee68c46_MIT17_922IAP13_RefPapr6D.pdf
+file_size: 190798
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

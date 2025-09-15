@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: An installation with photos showing the diversity of MIT students.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/a1dd926cda213394859c619d88d8d7ee_MLKdivnew.jpg
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/a1dd926cda213394859c619d88d8d7ee_MLKdivnew.jpg
+file_size: 95160
 file_type: image/jpeg
 image_metadata:
   caption: An installation with photos showing the diversity of MIT students.

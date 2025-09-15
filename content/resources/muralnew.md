@@ -2,7 +2,8 @@
 content_type: resource
 description: This installation is a graffiti-styled street mural. Image courtesy of
   Tobie Weiner.
-file: /courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/9564bcbc5d7d231ddd94d6dac626a9cb_Muralnew.jpg
+file: /ol-ocw-studio-app/courses/17-922-dr-martin-luther-king-jr-iap-design-seminar-january-iap-2013/9564bcbc5d7d231ddd94d6dac626a9cb_Muralnew.jpg
+file_size: 115661
 file_type: image/jpeg
 image_metadata:
   caption: This installation is a graffiti-styled street mural.
