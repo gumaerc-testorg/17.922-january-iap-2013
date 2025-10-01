@@ -57,9 +57,9 @@ _See Activity 1 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "A
 {{< tdopen >}}
 
 
-Most students watch "Awakenings," Episode 1 in the "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)" documentary series.
+Most students watch "Awakenings," Episode 1 in the "{{% resource_link "c476a2ef-174b-43a3-baaf-61ec1ef4a4eb" "Eyes on the Prize" %}}" documentary series.
 
-Donnie Mossberg. "Eyes on the Prize - 01 - Awakenings, 1954-1956." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=nM9sQxt8BKE](https://www.youtube.com/watch?v=nM9sQxt8BKE)
+Donnie Mossberg. "Eyes on the Prize - 01 - Awakenings, 1954-1956." December 4, 2012. YouTube. Accessed July 8, 2013. {{% resource_link "bab1991a-0c17-408e-996b-025491a04ce6" "https://www.youtube.com/watch?v=nM9sQxt8BKE" %}}
 
 A smaller group watches a different episode.
 {{< tdclose >}}
@@ -87,9 +87,9 @@ _See Activity 2 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "A
 {{< tdopen >}}
 
 
-Most students watch "No Easy Walk," Episode 4 in the "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)" documentary series.
+Most students watch "No Easy Walk," Episode 4 in the "{{% resource_link "c476a2ef-174b-43a3-baaf-61ec1ef4a4eb" "Eyes on the Prize" %}}" documentary series.
 
-Donnie Mossberg. "Eyes on the Prize - 04 - No Easy Walk 1961-1963." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=nrZvbsxkGcc](https://www.youtube.com/watch?v=nrZvbsxkGcc)
+Donnie Mossberg. "Eyes on the Prize - 04 - No Easy Walk 1961-1963." December 4, 2012. YouTube. Accessed July 8, 2013. {{% resource_link "18cf45fe-711a-426b-b028-96bf37885092" "https://www.youtube.com/watch?v=nrZvbsxkGcc" %}}
 
 A smaller group watches a different episode.
 
@@ -145,7 +145,7 @@ _See Activity 4 in the {{% resource_link b478624d-b8f3-bc08-6512-5af606432609 "A
 
 Students watch Episode 1 of "Chicano!", a four-part series about the beginnings of the Chicano Movement.
 
-cancerleo79. "Chicano! PBS Documentary—Quest for a Homeland." September 19, 2011. YouTube. Accessed May 31, 2013. [http://www.youtube.com/watch?v=RHQ4XS-DrqM](http://www.youtube.com/watch?v=RHQ4XS-DrqM)
+cancerleo79. "Chicano! PBS Documentary—Quest for a Homeland." September 19, 2011. YouTube. Accessed May 31, 2013. {{% resource_link "699e5fd0-aa6b-486b-9bf4-8433a9e9eb3c" "http://www.youtube.com/watch?v=RHQ4XS-DrqM" %}}
 
 
 {{< tdclose >}}

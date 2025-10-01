@@ -30,7 +30,7 @@ In the second half, students work as a group to complete the installation and ot
 Course Background
 -----------------
 
-February 2013 marked the 39th anniversary of MIT's celebration of the birthday of the Reverend Dr. Martin Luther King, Jr. For many years now MIT has chosen to celebrate the birth of Dr. Martin Luther King, Jr. with a breakfast in his honor. For more information, check out the website: [http://web.mit.edu/mlking/event/index.html](http://web.mit.edu/mlking/event/index.html)
+February 2013 marked the 39th anniversary of MIT's celebration of the birthday of the Reverend Dr. Martin Luther King, Jr. For many years now MIT has chosen to celebrate the birth of Dr. Martin Luther King, Jr. with a breakfast in his honor. For more information, check out the website: {{% resource_link "6db48a5a-1096-4e59-9d32-3a6e14440677" "http://web.mit.edu/mlking/event/index.html" %}}
 
 The MLK Design Seminar began in January 1999. Since then, MIT and Wellesley students have worked together to create artistic and political installations that have been placed in MIT's Lobby 7 and Lobby 10 to coincide with the university's celebration of Dr. King. Past years' projects have included work with children and adults in the Cambridge Community Centers, original songs and performances, benefits for charities, various features in _The Tech_ (MIT's oldest and largest newspaper) and other publications, and special projects.
 
