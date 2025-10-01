@@ -26,7 +26,7 @@ View the following videos of past Martin Luther King, Jr. Breakfast Celebration 
 
 *Johnnetta B. Cole, Keynote Speaker of the 2009 MLK Breakfast*
 
-"Yes We Must: Achieve Diversity through Leadership." February 5, 2009. MIT Video. Accessed June 3, 2013. [http://video.mit.edu/watch/yes-we-must-achieve-diversity-through-leadership-9453/](http://video.mit.edu/watch/yes-we-must-achieve-diversity-through-leadership-9453/)
+"Yes We Must: Achieve Diversity through Leadership." February 5, 2009. MIT Video. Accessed June 3, 2013. {{% resource_link "9a530b82-3451-40c6-a3b8-244f7dbe2f93" "http://video.mit.edu/watch/yes-we-must-achieve-diversity-through-leadership-9453/" %}}
 
 *Student speakers at the 2012 MLK Breakfast*
 
@@ -46,11 +46,11 @@ What would you say if you were a student speaker at the MLK Breakfast?
 
 *Option 1*
 
-Go to the [Civil Rights Movement Veterans](https://www.loc.gov/item/lcwaN0004613/) website. Read two segments from "Our Stories" and two from "Our Thoughts." Then in your paper, just write what you read and if there is anything related to these pieces, anything from "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)", or something about the US Civil Rights Movement that you want to know more about.
+Go to the {{% resource_link "c573d132-e8cc-4464-a7d5-58ab46b5a76a" "Civil Rights Movement Veterans" %}} website. Read two segments from "Our Stories" and two from "Our Thoughts." Then in your paper, just write what you read and if there is anything related to these pieces, anything from "{{% resource_link "c476a2ef-174b-43a3-baaf-61ec1ef4a4eb" "Eyes on the Prize" %}}", or something about the US Civil Rights Movement that you want to know more about.
 
 *Option 2*
 
-Go to [American Experience's Eyes on the Prize](https://www.pbs.org/wgbh/americanexperience/features/eyesontheprize-timeline-eyes-prize/) website. Read one of the reflections and in your paper, write which one you read, your thoughts on their reflection (not a summary—your thoughts) and if there is something more you would like to know about this issue or anything else about the US Civil Rights Movement.
+Go to {{% resource_link "977c093f-7c4f-4178-8b45-86759e424c33" "American Experience's Eyes on the Prize" %}} website. Read one of the reflections and in your paper, write which one you read, your thoughts on their reflection (not a summary—your thoughts) and if there is something more you would like to know about this issue or anything else about the US Civil Rights Movement.
 
 *See the* {{% resource_link "e6ab6006-8559-5ae6-d681-4536fd08bc6e" "Reflection Papers" %}} *section*
 
@@ -66,9 +66,9 @@ Write your autobiography (three to five paragraphs). Then read the autobiographi
 4
 {{< tdclose >}}{{< tdopen >}}
 
-Watch one of the episodes in the "[Eyes on the Prize](http://www.pbs.org/wgbh/amex/eyesontheprize/index.html)" documentary series. It is suggested that you watch Episode 6, "Bridge to Freedom", but you can watch any episode.
+Watch one of the episodes in the "{{% resource_link "aab5b3ca-cd1c-42aa-9c93-02d687765da1" "Eyes on the Prize" %}}" documentary series. It is suggested that you watch Episode 6, "Bridge to Freedom", but you can watch any episode.
 
-Donnie Mossberg. "Eyes on the Prize - 06 - Bridge to Freedom, 1965." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=yvmBuxPLZWs](https://www.youtube.com/watch?v=yvmBuxPLZWs)
+Donnie Mossberg. "Eyes on the Prize - 06 - Bridge to Freedom, 1965." December 4, 2012. YouTube. Accessed July 8, 2013. {{% resource_link "b82560d7-a0c6-4b11-b1fb-f097868d6678" "https://www.youtube.com/watch?v=yvmBuxPLZWs" %}}
 
 Write a reflection paper on the segment you watched. Don't write a summary—write your thoughts on what you saw in the video, and anything that came up for you that may relate to the present.
 
@@ -82,7 +82,7 @@ Work on your group presentation for session 6.
 6
 {{< tdclose >}}{{< tdopen >}}
 
-Watch one of the episodes on the [Frontline](http://www.pbs.org/wgbh/pages/frontline/view/) website and write a couple of paragraphs with your reflections.
+Watch one of the episodes on the {{% resource_link "c93163fa-8a77-4068-ab7f-c3ab0aea3df4" "Frontline" %}} website and write a couple of paragraphs with your reflections.
 
 *See the* {{% resource_link "e6ab6006-8559-5ae6-d681-4536fd08bc6e" "Reflection Papers" %}} *section*
 
@@ -100,53 +100,53 @@ Watch one of the videos shown during Session 7 (see the {{% resource_link "b4786
 
 View at least five of the following websites and submit at least one idea for either an installation or a project. Think about what you want it to look like, or what you would like it to say to the MIT/Wellesley and beyond community.
 
-[Wooster Collective](http://www.woostercollective.com/#grid-view) *(street art)*
+{{% resource_link "0146e2ae-bb5b-4f9f-9347-9c8315f6b907" "Wooster Collective" %}} *(street art)*
 
-[The History of Chicano Park](http://www.chicanoparksandiego.com/) *(murals)*
+{{% resource_link "10abce6b-5eb3-470e-993b-55d517eb9c14" "The History of Chicano Park" %}} *(murals)*
 
-[Massachusetts Museum of Contemporary Art](http://www.massmoca.org/)   
+{{% resource_link "153598e6-5c1e-443b-b294-7e57e2fc0a54" "Massachusetts Museum of Contemporary Art" %}}   
 *(For current exhibition info, go to the "in the galleries" section.)*
 
-[Cincinnati Contemporary Art Center](http://contemporaryartscenter.org/)   
+{{% resource_link "59194792-e685-4ed2-b4b4-65e05fb3206b" "Cincinnati Contemporary Art Center" %}}   
 *(Take the virtual tour of the building, but also check out the current exhibitions.)*
 
-[Tate](http://www.tate.org.uk/visit/tate-modern)
+{{% resource_link "b6f4b265-ea72-410d-97a6-42cad79b3bbb" "Tate" %}}
 
-[Black Contemporary Art](http://blackcontemporaryart.tumblr.com/)
+{{% resource_link "fa034c7a-f9df-40c3-88ec-b962c6ed52d3" "Black Contemporary Art" %}}
 
-[Oddee](http://www.oddee.com/item_96507.aspx)
+{{% resource_link "5f7400d1-ead2-440e-8fe3-a842064d3331" "Oddee" %}}
 
-[Matador Network](http://matadornetwork.com/nights/12-coolest-art-installations-in-the-history-of-burning-man/)
+{{% resource_link "4cd7f111-ab3c-4f93-a0c2-8954e9dd2234" "Matador Network" %}}
 
-[alfredojaar.net](http://www.alfredojaar.net/)
+{{% resource_link "bf53c022-a8f8-4d8e-a259-d1c4d40f3918" "alfredojaar.net" %}}
 
-[Graphic Witness: Visual Arts & Social Commentary](http://www.graphicwitness.org/) *(historical political art)*
+{{% resource_link "6f9e4f0d-faf6-40e1-85df-4241c45808a3" "Graphic Witness: Visual Arts & Social Commentary" %}} *(historical political art)*
 
-[Web Urbanist](http://weburbanist.com/2009/07/28/12-creative-architectural-art-installations-building-modifications/)
+{{% resource_link "61d94a05-af03-4aad-879a-93dac86cce28" "Web Urbanist" %}}
 
-[Human Rights Watch](http://www.hrw.org/news/2010/06/14/free-burma-s-political-prisoners-art-and-photo-installation)
+{{% resource_link "20572b1e-61b5-453d-a98a-7745e15d24ec" "Human Rights Watch" %}}
 
-[dmoz open directory project](http://dmoztools.net/Arts/Visual_Arts/Installation_Art/)
+{{% resource_link "52edfc4b-2133-4aac-a102-602c1069caca" "dmoz open directory project" %}}
 
-[art21's Kara Walker page](https://art21.org/artist/kara-walker/)
+{{% resource_link "c5ba0bdb-e80e-44e1-a677-726cacd7c340" "art21's Kara Walker page" %}}
 
-[BrownPride.com](http://www.brownpride.com/) *(check out the murals and graffiti sections)*
+{{% resource_link "c0109ef1-d85f-40d0-8aff-617861924fcb" "BrownPride.com" %}} *(check out the murals and graffiti sections)*
 
-[TATSCRU: The Mural Kings](http://tatscru.net/) *(muralists for profit)*
+{{% resource_link "dd3c6adf-38b2-49d0-bb79-3592340ccc77" "TATSCRU: The Mural Kings" %}} *(muralists for profit)*
 
-[Burning Man](http://www.burningman.com/art_of_burningman/) *(check out the image gallery from the archives)*
+{{% resource_link "4d4759d6-0d20-4567-8e35-5eac8bb6b6cd" "Burning Man" %}} *(check out the image gallery from the archives)*
 
 Here are some sites/museums that have historical info, address issues of race and ethnicity, and may be of interest:
 
-[Dropping Knowledge](http://www.droppingknowledge.org/bin/home/home.page)
+{{% resource_link "2e69684c-520e-4c76-a9a1-8e730766396f" "Dropping Knowledge" %}}
 
-[Independent Lens: The New Americans](http://www.pbs.org/independentlens/newamericans/)
+{{% resource_link "295502fb-da1e-4686-9379-0e8cd2c7aaaa" "Independent Lens: The New Americans" %}}
 
-[National Civil Rights Museum at the Lorraine Motel](http://www.civilrightsmuseum.org/)
+{{% resource_link "06614392-6c66-46cd-92a1-4a8f9d4c3953" "National Civil Rights Museum at the Lorraine Motel" %}}
 
-[American Family: Journey of Dreams](http://www.pbs.org/americanfamily/latino.html)
+{{% resource_link "5e9a8a81-b517-451d-9067-9774dd3d335b" "American Family: Journey of Dreams" %}}
 
-[Matters of Race](http://www.pbs.org/mattersofrace/index.shtml)
+{{% resource_link "7cd63e12-6f8c-4e1f-b784-4efb6aa4c983" "Matters of Race" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
